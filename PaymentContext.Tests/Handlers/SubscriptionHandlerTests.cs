@@ -12,8 +12,6 @@ namespace PaymentContext.Tests.Handlers
     [TestClass]
     public class SubscriptionHandlerTests
     {
-        // Red, Green, Refactor
-
         [TestMethod]
         public void ShouldReturnErrorWhenDocumentExists()
         {
